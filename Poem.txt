@@ -1,4 +1,4 @@
-The Rainbow and the Unicorns
+The Rainbow and the Unicorns and the Fairies
 
 Purple
 Pink
@@ -7,6 +7,8 @@ Blue
 Yellow
 Green
 Unicorn
+Fairy
 
 These are the colors of the rainbow.
 And the unicorns.
+And the fairies.
