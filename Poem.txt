@@ -1,12 +1,15 @@
-The Rainbow and the Unicorns
+The Rainbow and the Unicorns and the Fairies
 
 Purple
 Pink
+White
 Red
 Blue
 Yellow
 Green
 Unicorn
+Fairy
 
 These are the colors of the rainbow.
 And the unicorns.
+And the fairies.
