@@ -4,6 +4,8 @@ Purple
 Pink
 White
 Red
+Indigo
+Black
 Blue
 Yellow
 Green
